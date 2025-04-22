@@ -53,7 +53,7 @@ case_A = {
 }
 
 case_B = {
-    "Booking_ID": "INN36271	",
+    "Booking_ID": "INN36271",
     "no_of_adults": 3,
     "no_of_children": 0,
     "no_of_weekend_nights": 2,
