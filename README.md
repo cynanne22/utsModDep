@@ -1,4 +1,4 @@
-# 📦 Streamlit App Starter Kit 
+# Hotel Booking Status Predictor
 ```
 ⬆️ (Replace above with your app's name)
 ```
