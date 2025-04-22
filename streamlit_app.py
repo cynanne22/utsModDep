@@ -81,7 +81,7 @@ test_options = {
 option = st.selectbox("Test Case", list(test_options.keys()))
 selected_data = test_options[option]
 
-st.write("### Data yang digunakan:")
+st.write("#### Selected Data:")
 st.dataframe(pd.DataFrame([selected_data]))
 
 if st.button("Predict"):
