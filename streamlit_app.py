@@ -53,24 +53,24 @@ case_A = {
 }
 
 case_B = {
-    "Booking_ID": "INN36275",
+    "Booking_ID": "INN36272",
     "no_of_adults": 2,
     "no_of_children": 0,
     "no_of_weekend_nights": 1,
-    "no_of_week_nights": 2,
+    "no_of_week_nights": 3,
     "type_of_meal_plan": "Meal Plan 1",
     "required_car_parking_space": 0,
     "room_type_reserved": "Room_Type 1",
-    "lead_time": 207,
+    "lead_time": 228,
     "arrival_year": 2018,
-    "arrival_month": 12,
-    "arrival_date": 30,
-    "market_segment_type": "Offline",
+    "arrival_month": 10,
+    "arrival_date": 17,
+    "market_segment_type": "Online",
     "repeated_guest": 0,
     "no_of_previous_cancellations": 0,
     "no_of_previous_bookings_not_canceled": 0,
-    "avg_price_per_room": 161.67,
-    "no_of_special_requests": 0
+    "avg_price_per_room": 90.95,
+    "no_of_special_requests": 2
 }
 
 test_options = {
